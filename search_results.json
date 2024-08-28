@@ -1,0 +1,42 @@
+[
+  {
+    "title": "https://deno.land › x › puppeteerpuppeteer@16.2.0 | Denodeno-puppeteer is a library that provides a high-level API to control Chrome, Chromium, or Firefox Nightly over the DevTools Protocol. Learn how to install, use, and customize it for your browser testing needs with examples and documentation.View DocumentationPuppeteer methods might throw errors if they are unable to fulfill a request. For example, page.waitForSelector(selector[, options]) might fail if the selector doesn't match any nodes during the given timeframe.View SourceA port of puppeteer running on Deno. Web framework designed for the edgeDockerfileA port of puppeteer running on Deno. A port of puppeteer running on Deno. Skip to main content. Products. Open Source. Deno. Modern runtime for JavaScript and TypeScript. Fresh. Web framework designed for the edge. JSR. TypeScript-first ESM package registry. Commercial. Deno for Enterprise.puppeteer_plus@0.24.0Credits. puppeteer_plus is heavily inspired by deno-puppeteer, the key difference is puppeteer_plus imports TypeScript version while deno-puppeteer is using JavaScript with types. This project will definitely not exists without the great work of Puppeteer prject. Deno port of puppeteer base on latest TypeScript source.pptr@1.2.0Puppeteer Deno is a Deno library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium./examplesA port of puppeteer running on Deno. A port of puppeteer running on Deno. Skip to main content. Products. Open Source. Deno. Modern runtime for JavaScript and TypeScript. Fresh. Web framework designed for the edge. JSR. TypeScript-first ESM package registry. Commercial. Deno for Enterprise.",
+    "url": "https://deno.land/x/puppeteer"
+  },
+  {
+    "title": "https://alexandrempsantos.com › deno › puppeteer-with-denoUsing Puppeteer with Deno | learning as we goLearn how to use deno-puppeteer, a port of puppeteer to deno, to write headless browser scripts and applications. See an example of a CLI utility that checks website visual changes in different resolutions.",
+    "url": "https://alexandrempsantos.com/deno/puppeteer-with-deno/"
+  },
+  {
+    "title": "https://github.com › lucacasonato › deno-puppeteerlucacasonato/deno-puppeteer: A port of puppeteer running on Deno - GitHubA fork of Puppeteer running on Deno. Puppeteer is a library which provides a high-level API to control Chrome, Chromium, or Firefox Nightly over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium. Most things that you can do manually in the browser can be done using ...",
+    "url": "https://github.com/lucacasonato/deno-puppeteer"
+  },
+  {
+    "title": "https://github.com › lucacasonato › puppeteer_on_deployRunning puppeteer on Deno Deploy! - GitHubThis demo shows how to use Puppeteer on Deno or Deno Deploy by using the headless browser service https://browserless.io. Run locally with Deno CLI. To run the app locally with the Deno CLI, run the following command: deno run --config tsconfig.json --no-check --allow-env --allow-net local.ts.",
+    "url": "https://github.com/lucacasonato/puppeteer_on_deploy"
+  },
+  {
+    "title": "https://deno.land › x › puppeteer_pluspuppeteer_plus@0.24.0 | DenoCredits. puppeteer_plus is heavily inspired by deno-puppeteer, the key difference is puppeteer_plus imports TypeScript version while deno-puppeteer is using JavaScript with types. This project will definitely not exists without the great work of Puppeteer prject. Deno port of puppeteer base on latest TypeScript source.",
+    "url": "https://deno.land/x/puppeteer_plus"
+  },
+  {
+    "title": "https://deno.land › x › puppeteer?source=puppeteer@16.2.0 | DenoA port of puppeteer running on Deno. Web framework designed for the edge",
+    "url": "https://deno.land/x/puppeteer?source="
+  },
+  {
+    "title": "https://deno-blog.com › End-to-end_test_a_Deno_webapp_using_deno-puppeteer.2022-08-21Craig's Deno DiaryAug 21, 2022The deno-puppeteer library-- created by Deno team member Luca Casonato -- is a Deno-compatible port of the puppeteer Node (npm) library. The library has a number of uses including generating app screenshots and automating form submissions. We are using it here to do end-to-end (e2e) testing of a Deno webapp. ...",
+    "url": "https://deno-blog.com/End-to-end_test_a_Deno_webapp_using_deno-puppeteer.2022-08-21"
+  },
+  {
+    "title": "https://www.reddit.com › r › Deno › comments › mwpa3t › deno_puppeteer_in_dockerDeno + Puppeteer in docker : r/Deno - RedditDeno is a successor to Node.js, with the same creator, Ryan Dahl. ... Deno + Puppeteer in docker . Hello guys! Did someone try to use Deno and Puppeteer in a docker container recently? Could you please provide a working Dockerfile? I am getting problems with launching chrome in the container. Same problem on VM with Ubuntu Server 20.04.",
+    "url": "https://www.reddit.com/r/Deno/comments/mwpa3t/deno_puppeteer_in_docker/"
+  },
+  {
+    "title": "https://questions.deno.com › m › 1226913285392175134Capturing network requests using Puppeteer? - DenoI want to capture any requests, which include .m3u8 in their URL, but its neither captured by the normal requestInterception nor using the createCDPSession method. In the normal chrome devtools, the master.m3u8 shows up, but my program cant catch it for some reason. I also tried using Astral, but the it also didn't capture the request.",
+    "url": "https://questions.deno.com/m/1226913285392175134"
+  },
+  {
+    "title": "https://github.com › denoland › deno › issues › 20179Puppeteer issues · Issue #20179 · denoland/deno · GitHubThe post to announce the release of Deno 1.35 says that npm:puppeteer is now supported. I've been doing some tests and found a couple of issues with this package. This is the code I'm using: import puppeteer from \"npm:puppeteer@21.0.3\"; ...",
+    "url": "https://github.com/denoland/deno/issues/20179"
+  }
+]
